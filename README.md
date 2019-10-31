@@ -1,2 +1,2 @@
 # UTS-DASAR-PEMROGRAMAN
-A2.1900059 muhammad nandi junaedi
+Muhammad Nandi Junaedi-A2.1900059-TI-IC
